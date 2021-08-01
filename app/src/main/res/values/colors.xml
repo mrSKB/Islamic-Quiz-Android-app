@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Header">#ff5e6c</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="red85">#ffb3b3</color>
+    <color name="Hue60">#cf7d7d</color>
+
+</resources>

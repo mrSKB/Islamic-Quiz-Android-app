@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Islamic QuizApp</string>
+    <string name="quizapp">Test your knowledge of Allah, Muhammad (PBUH) and Qur’an! See how well you know the facts about one of the largest religions in the world, about fasting in Ramadan, The Pillars of Islam, The Hajj (pilgrimage to Mecca) and much more! Islamic Quiz application also has many flashcards for you. Practice them everyday to understand more about Islam.
+
+Hope you like Islamic Quiz app.
+</string>
+    <string name="abdulrahman_skb">Abdulrahman SKB</string>
+    <string name="muhammadabdulrahmanskb_gmail">muhammadabdulrahmanskb@gmail</string>
+    <string name="devubrin_gmail_com">devubrin@gmail.com</string>
+    <string name="devub_team">Devub Team</string>
+    <string name="first" />
+    <string name="enter_your_name">Enter your name</string>
+    <string name="done_menu">Done/MENU</string>
+    <string name="quran_hadith_history_more"><![CDATA[Quran,Hadith,History & more]]></string>
+    <string name="developers">Developers</string>
+    <string name="menu">MENU</string>
+</resources>
